@@ -1,0 +1,49 @@
+plant_name,city,state,dec_order,validation,county,county_fips,lat,lon,dec_order_name,region,pooled_dec2025,on_dec_map
+Agri-Mark,Cabot,VT,1,AMS 3359 December column,WASHINGTON,50023,44.241925,-72.58392,FO1 Northeast,Northeast,True,True
+Agri-Mark,Chateaugay,NY,1,AMS 3359 December column,FRANKLIN,36033,44.712835,-74.344365,FO1 Northeast,Northeast,True,True
+Agri-Mark,Middlebury,VT,1,AMS 3359 December column,ADDISON,50001,44.06247,-73.166759,FO1 Northeast,Northeast,True,True
+Arla Foods Production,Hollandtown,WI,30,AMS 3359 December column,BROWN,55009,44.497198,-88.031843,FO30 Upper Midwest,Upper Midwest,True,True
+Associated Milk Producers,Jim Falls,WI,30,AMS 3359 December column,CHIPPEWA,55017,44.986588,-91.32738,FO30 Upper Midwest,Upper Midwest,True,True
+Associated Milk Producers,Paynesville,MN,30,AMS 3359 December column,STEARNS,27145,45.55783,-94.360801,FO30 Upper Midwest,Upper Midwest,True,True
+BelGioioso Cheese,Pulaski,WI,30,AMS 3359 December column,BROWN,55009,44.497198,-88.031843,FO30 Upper Midwest,Upper Midwest,True,True
+Bongards' Creameries,Perham,MN,30,AMS 3359 December column,OTTER TAIL,27111,46.405065,-95.793598,FO30 Upper Midwest,Upper Midwest,True,True
+Burnett Dairy Coop dba Cady Cheese,Wilson,WI,30,AMS 3359 December column,SAINT CROIX,55109,45.018036,-92.579597,FO30 Upper Midwest,Upper Midwest,True,True
+Cedar Valley Cheese,Belgium,WI,30,AMS 3359 December column,OZAUKEE,55089,43.32038,-87.949891,FO30 Upper Midwest,Upper Midwest,True,True
+Chula Vista Cheese,Browntown,WI,30,AMS 3359 December column,GREEN,55045,42.670633,-89.576089,FO30 Upper Midwest,Upper Midwest,True,True
+Continental Dairy Facilities,Coopersville,MI,33,AMS 3359 December column,OTTAWA,26139,42.909362,-86.021326,FO33 Mideast,Upper Midwest,True,True
+Cooperative Regions of Organic Producer Pools,Chaseburg,WI,30,AMS 3359 December column,VERNON,55123,43.605782,-90.836755,FO30 Upper Midwest,Upper Midwest,True,True
+Dairy Farmers of America,Cass City,MI,33,AMS 3359 December column,TUSCOLA,26157,43.429727,-83.435718,FO33 Mideast,Upper Midwest,True,True
+Dairy Farmers of America,Fond du Lac,WI,30,AMS 3359 December column,FOND DU LAC,55039,43.76493,-88.486885,FO30 Upper Midwest,Upper Midwest,True,True
+Dairy Farmers of America,Middlebury Center,PA,1,AMS 3359 December column,TIOGA,42117,41.815409,-77.207281,FO1 Northeast,Northeast,True,True
+Dairy Farmers of America,New Wilmington,PA,33,AMS 3359 December column,LAWRENCE,42073,40.986592,-80.336662,FO33 Mideast,Northeast,True,True
+Dairy Farmers of America,Reading,PA,1,AMS 3359 December column,BERKS,42011,40.364226,-75.908729,FO1 Northeast,Northeast,True,True
+Dairy State Cheese,Rudolph,WI,30,AMS 3359 December column,WOOD,55141,44.478782,-89.963901,FO30 Upper Midwest,Upper Midwest,True,True
+Decatur Dairy,Brodhead,WI,30,AMS 3359 December column,GREEN,55045,42.670633,-89.576089,FO30 Upper Midwest,Upper Midwest,True,True
+Eau Galle Cheese Factory,Durand,WI,30,AMS 3359 December column,PEPIN,55091,44.590724,-91.989241,FO30 Upper Midwest,Upper Midwest,True,True
+Ellsworth Cooperative Creamery,Ellsworth,WI,30,AMS 3359 December column,PIERCE,55093,44.771766,-92.544547,FO30 Upper Midwest,Upper Midwest,True,True
+FarmFirst Dairy Cooperative,Kewaskum,WI,30,AMS 3359 December column,WASHINGTON,55131,43.347344,-88.215167,FO30 Upper Midwest,Upper Midwest,True,True
+First District Association,Litchfield,MN,30,AMS 3359 December column,MEEKER,27093,45.136368,-94.482983,FO30 Upper Midwest,Upper Midwest,True,True
+Foremost Farms,Appleton,WI,30,AMS 3359 December column,OUTAGAMIE,55087,44.309508,-88.400738,FO30 Upper Midwest,Upper Midwest,True,True
+Grande Cheese,Rubicon,WI,30,AMS 3359 December column,DODGE,55027,43.434231,-88.712346,FO30 Upper Midwest,Upper Midwest,True,True
+Grassland Dairy Products (Fairground),Greenwood,WI,30,AMS 3359 December column,CLARK,55019,44.784643,-90.547599,FO30 Upper Midwest,Upper Midwest,True,True
+Grassland Dairy Products (Main Street),Greenwood,WI,30,AMS 3359 December column,CLARK,55019,44.784643,-90.547599,FO30 Upper Midwest,Upper Midwest,True,True
+Klondike Cheese Company,Monroe,WI,30,AMS 3359 December column,GREEN,55045,42.670633,-89.576089,FO30 Upper Midwest,Upper Midwest,True,True
+LaGrander's Hillside Dairy,Stanley,WI,30,AMS 3359 December column,CHIPPEWA,55017,44.986588,-91.32738,FO30 Upper Midwest,Upper Midwest,True,True
+Land O'Lakes,Carlisle,PA,1,AMS 3359 December column,CUMBERLAND,42041,40.204609,-77.099379,FO1 Northeast,Northeast,True,True
+Land O'Lakes,Kiel,WI,30,AMS 3359 December column,MANITOWOC,55071,44.104426,-87.723854,FO30 Upper Midwest,Upper Midwest,True,True
+Lynn Dairy,Granton,WI,30,AMS 3359 December column,CLARK,55019,44.784643,-90.547599,FO30 Upper Midwest,Upper Midwest,True,True
+Melrose Dairy Proteins,Melrose,MN,30,AMS 3359 December column,STEARNS,27145,45.55783,-94.360801,FO30 Upper Midwest,Upper Midwest,True,True
+Michigan Milk Producers,Constantine,MI,33,AMS 3359 December column,SAINT JOSEPH,26149,41.888048,-85.52719,FO33 Mideast,Upper Midwest,True,True
+Michigan Milk Producers,Ovid,MI,33,AMS 3359 December column,CLINTON,26037,42.891278,-84.55503,FO33 Mideast,Upper Midwest,True,True
+Mullins Cheese,Marshfield,WI,30,AMS 3359 December column,WOOD,55141,44.478782,-89.963901,FO30 Upper Midwest,Upper Midwest,True,True
+Mullins Cheese,Mosinee,WI,30,AMS 3359 December column,MARATHON,55073,44.908503,-89.710946,FO30 Upper Midwest,Upper Midwest,True,True
+Nasonville Dairy,Marshfield,WI,30,AMS 3359 December column,WOOD,55141,44.478782,-89.963901,FO30 Upper Midwest,Upper Midwest,True,True
+NFO,Fond du Lac,WI,30,AMS 3359 December column,FOND DU LAC,55039,43.76493,-88.486885,FO30 Upper Midwest,Upper Midwest,True,True
+Plainview Milk Products,Plainview,MN,30,AMS 3359 December column,WABASHA,27157,44.297858,-92.221086,FO30 Upper Midwest,Upper Midwest,True,True
+Prairie Farms Dairy,Faribault,MN,30,AMS 3359 December column,RICE,27131,44.370592,-93.260361,FO30 Upper Midwest,Upper Midwest,True,True
+Rolling Hills Dairy Producers,Monticello,WI,30,AMS 3359 December column,GREEN,55045,42.670633,-89.576089,FO30 Upper Midwest,Upper Midwest,True,True
+Saputo Cheese,Waupun,WI,30,AMS 3359 December column,DODGE,55027,43.434231,-88.712346,FO30 Upper Midwest,Upper Midwest,True,True
+Sartori,Plymouth,WI,30,AMS 3359 December column,SHEBOYGAN,55117,43.733217,-87.820251,FO30 Upper Midwest,Upper Midwest,True,True
+Scenic Central Milk Producers,Muscoda,WI,30,AMS 3359 December column,GRANT,55043,42.82529,-90.616057,FO30 Upper Midwest,Upper Midwest,True,True
+St. Albans Cooperative Creamery,St.Albans,VT,1,AMS 3359 December column,FRANKLIN,50011,44.840447,-72.993263,FO1 Northeast,Northeast,True,True
+Zimmerman Cheese,Wiota,WI,30,AMS 3359 December column,LAFAYETTE,55065,42.661836,-90.139042,FO30 Upper Midwest,Upper Midwest,True,True

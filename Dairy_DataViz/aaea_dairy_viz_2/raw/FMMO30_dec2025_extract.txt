@@ -1,0 +1,323 @@
+# FO 30 (Upper Midwest) — Table 15: Producers and Producer Milk by State and County — December 2025
+# Source: FO30_CompStats_2024-2025.pdf, pages 34-40 (poppler pdftotext -layout). Retrieved 2026-07-10.
+# Printed order total: 3,036 producers; 1,199,765,312 lbs.
+
+                                           Table 15
+       Producers and Producer Milk by State and County
+                                     December 2025
+                                          State       County     Number of    Producer
+    State               County            Code         Code      Producers   Milk Pounds
+
+Colorado            El Paso                 8              41           R               R
+                    Saguache                8             109           R               R
+       Colorado Total 2/                                                R               R
+Illinois          Boone                     17             7           10         4,848,095
+                    Carroll                 17            15            7         4,236,410
+                    Champaign               17             19           R                R
+                    De Kalb                 17             37           3           725,002
+                    Fulton                  17             57           R                R
+                    Iroquois                17             75           R                R
+                    Jo Daviess              17             85          13         4,028,757
+                    Kane                    17             89           3           467,550
+                    Kendall                 17             93           R                R
+                    La Salle                17             99           R                R
+                    Livingston              17            105           4           293,312
+                    Logan                   17            107           R                R
+                    McHenry                 17            111          12         2,155,682
+                    McLean                  17            113           R                R
+                    Madison                 17            119           R                R
+                    Marshall                17            123           R                R
+                    Ogle                    17            141           4         2,463,130
+                    Pike                    17            149           R                R
+                    Rock Island             17            161           3         1,142,698
+                    Stephenson              17            177          35         9,686,730
+                    Tazewell                17            179           R                R
+                    Washington              17            189           R                R
+                    Whiteside               17            195           4           449,576
+                    Winnebago               17            201          10         2,569,778
+                    Restricted                                         13           693,402
+       Illinois Total                                                 121        33,760,122
+Indiana             Elkhart                 18            39            5          93,158
+                    Grant                   18            53            R               R
+                    LaGrange                18            87           16           53,692
+                    La Porte                18            91            R               R
+                    Marshall                18            99            R               R
+                    Newton                  18            111           R               R
+                    Noble                   18            113           R                R
+                    Restricted                                          6         4,300,651
+       Indiana Total                                                   27         4,447,501
+Iowa                Allamakee               19             5           20         3,767,556
+                    Benton                  19            11            R               R
+                    Black Hawk              19            13            R               R
+                    Bremer                  19            17            R               R
+                    Buchanan                19            19            5          117,147
+                                                Page 34
+                                  Upper Midwest Federal Milk Order
+                                  Table 15 (Continued)
+
+                                          State      County      Number of    Producer
+     State              County            Code        Code       Producers   Milk Pounds
+
+Iowa (continued)
+                    Cerro Gordo             19           33             R               R
+                    Chickasaw               19           37             6          614,713
+                    Clayton                 19           43             9        1,093,270
+                    Clinton                 19           45             R               R
+                    Davis                   19           51             4          255,049
+                    Delaware                19           55             8        2,130,838
+                    Dubuque                 19           61            15       12,025,435
+                    Fayette                 19           65             7          802,032
+                    Floyd                   19           67             6          260,649
+                    Hancock                 19           81             R               R
+                    Howard                  19           89            21        2,854,122
+                    Jackson                 19           97             3           71,497
+                    Johnson                 19          103             R               R
+                    Jones                   19          105             4        1,853,161
+                    Mitchell                19          131             6          836,031
+                    O'Brien                 19          141             R               R
+                    Pocahontas              19          151             R               R
+                    Scott                   19          163             R               R
+                    Sioux                   19          167             R               R
+                    Van Buren               19          177             R               R
+                    Washington              19          183             3          275,233
+                    Wayne                   19          185             R               R
+                    Winneshiek              19          191            26       10,713,378
+                    Restricted                                         15        3,332,872
+       Iowa Total                                                     158       41,002,983
+Kentucky            Bath                    21          11              R              R
+       Kentucky Total 2/                                               R               R
+Michigan            Allegan                 26           5             R               R
+                    Branch                  26          23              R              R
+                    Dickinson               26          43              3        1,355,375
+                    Menominee 1/            26          109            16        6,005,000
+                    St. Joseph              26          149             5         21,787
+       Michigan Total                                                  24        7,382,162
+Minnesota           Becker                  27           5              4        8,383,947
+                    Benton                  27           9             11        4,465,052
+                    Blue Earth              27          13              3          213,384
+                    Brown                   27          15             10        1,573,643
+                    Carlton                 27          17              5          263,994
+                    Carver                  27          19             26        6,081,212
+                    Chippewa                27          23              3        2,692,605
+                    Chisago                 27          25              4          341,330
+                    Clay                    27          27              3        1,615,286
+                    Cottonwood              27          33              R               R
+
+
+
+                                              Page 35
+                                  Upper Midwest Federal Milk Order
+                                Table 15 (Continued)
+
+
+                                        State      County      Number of    Producer
+    State               County          Code        Code       Producers   Milk Pounds
+
+Minnesota (continued)
+                   Crow Wing              27           35             R               R
+                   Dakota                 27           37             5        3,924,990
+                   Dodge                  27           39            10        6,703,691
+                   Douglas                27           41             5          497,580
+                   Faribault              27           43             R               R
+                   Fillmore               27           45            28       12,423,522
+                   Freeborn               27           47             R               R
+                   Goodhue                27           49            34       23,613,528
+                   Grant                  27           51             R               R
+                   Hennepin               27           53             R               R
+                   Houston                27           55            25        9,364,194
+                   Hubbard                27           57             R               R
+                   Isanti                 27           59             R               R
+                   Kanabec                27           65             R               R
+                   Kandiyohi              27           67             5        1,282,057
+                   Le Sueur               27           79             4          284,138
+                   Lincoln                27           81             R               R
+                   McLeod                 27           85            10        2,855,412
+                   Marshall               27           89             R               R
+                   Meeker                 27           93             4        4,784,053
+                   Mille Lacs             27           95             6          480,046
+                   Morrison               27           97            46        8,811,677
+                   Mower                  27           99             9        3,284,254
+                   Murray                 27          101             R               R
+                   Nicollet               27          103             6        1,229,803
+                   Norman                 27          107             R               R
+                   Olmsted                27          109            12        7,460,079
+                   Otter Tail             27          111            23        7,664,519
+                   Pennington             27          113             R               R
+                   Pine                   27          115             6        2,573,382
+                   Pipestone              27          117             4          888,816
+                   Polk                   27          119             3        2,021,389
+                   Pope                   27          121             R               R
+                   Ramsey                 27          123             R               R
+                   Red Lake               27          125             R               R
+                   Redwood                27          127             R               R
+                   Renville               27          129             R               R
+                   Rice                   27          131            19        6,913,657
+                   Roseau                 27          135             R               R
+                   Scott                  27          139            13        2,434,669
+                   Sherburne              27          141             R               R
+                   Sibley                 27          143            11        2,630,268
+                   Stearns                27          145           123       19,969,286
+                   Steele                 27          147             8        1,871,647
+                   Stevens                27          149             3       10,065,677
+                                            Page 36
+                                Upper Midwest Federal Milk Order
+                                 Table 15 (Continued)
+
+
+                                         State      County      Number of    Producer
+    State               County           Code        Code       Producers   Milk Pounds
+
+Minnesota (continued)
+                    Todd                   27          153             9         5,848,429
+                    Wabasha                27          157            26         9,990,964
+                    Wadena                 27          159             6           909,534
+                    Waseca                 27          161             3           442,072
+                    Washington             27          163             R                R
+                    Watonwan               27          165             R                R
+                    Winona                 27          169            64        30,019,187
+                    Wright                 27          171            22         8,255,127
+                    Restricted                                        37        27,352,442
+       Minnesota Total 3/                                            658       252,480,542
+Missouri            Daviess                29           61             R                R
+                    Grundy                 29           79             R                R
+                    Linn                   29          115             R                R
+                    Livingston             29          117             3           172,409
+                    Scotland               29          199             4           321,620
+                    Restricted                                         3           250,762
+       Missouri Total                                                 10           744,791
+North Dakota        Barnes                 38           3              R                R
+                    Cass                   38          17              R                R
+                    Foster                 38          31              R                R
+                    Grant                  38          37              R                R
+                    Hettinger              38          41              R                R
+                    La Moure               38          45              R                R
+                    Logan                  38          47              R                R
+                    McHenry                38          49              R                R
+                    McIntosh               38          51              R                R
+                    Morton                 38          59              3         2,780,634
+                    Sargent                38          81              R                R
+                    Stutsman               38          93              R                R
+                    Restricted                                        12         6,211,709
+       North Dakota Total                                             15         8,992,343
+Ohio                Ashtabula              39           7              R                R
+                    Coshocton              39          31              R                R
+                    Geauga                 39          55              3             8,894
+                    Hardin                 39          65              R                R
+                    Highland               39          71              R                R
+                    Holmes                 39          75              3           17,329
+                    Logan                  39          91              3           13,335
+                    Portage                39          133             R               R
+                    Trumbull               39          155             R               R
+                    Restricted                                         6           45,838
+       Ohio Total                                                     15           85,396
+
+
+                                             Page 37
+                                 Upper Midwest Federal Milk Order
+                                  Table 15 (Continued)
+
+
+                                          State      County      Number of    Producer
+   State                 County           Code        Code       Producers   Milk Pounds
+
+South Dakota        Brookings               46           11             3        8,353,140
+                    Brown                   46           13             R               R
+                    Campbell                46           21             R               R
+                    Codington               46           29             R               R
+                    Faulk                   46           49             R               R
+                    Grant                   46           51             3          270,740
+                    Hanson                  46           61             R               R
+                    Lake                    46           79             R               R
+                    Mccook                  46           87             R               R
+                    Roberts                 46          109             R               R
+                    Turner                  46          125             R               R
+                    Restricted                                         10        7,339,158
+        South Dakota Total                                             16       15,963,038
+Texas               Erath                   48          143             R               R
+                    Runnels                 48          399             R               R
+        Texas Total 2/                                                  R               R
+Wisconsin           Adams                   55           1              6       22,662,915
+                    Ashland                 55           3              R               R
+                    Barron                  55           5             33        5,900,620
+                    Bayfield                55           7              R               R
+                    Brown                   55           9             61       55,799,062
+                    Buffalo                 55          11             36       16,819,659
+                    Burnett                 55          13              R               R
+                    Calumet                 55          15             31       26,838,680
+                    Chippewa                55          17             57       12,808,636
+                    Clark                   55          19             93       31,008,176
+                    Columbia                55          21             26        4,098,928
+                    Crawford                55          23             27        5,408,653
+                    Dane                    55          25             91       20,898,870
+                    Dodge                   55          27             88       34,057,514
+                    Door                    55          29             13       11,882,676
+                    Douglas                 55          31              3          188,914
+                    Dunn                    55          33             22       19,078,231
+                    Eau Claire              55          35             11        2,904,921
+                    Fond du Lac             55          39             76       56,901,092
+                    Grant                   55          43            115       29,584,570
+                    Green                   55          45             68       20,139,443
+                    Green Lake              55          47             10        7,110,599
+                    Iowa                    55          49             75       15,448,968
+                    Jackson                 55          53             20        7,327,336
+                    Jefferson               55          55             32       12,872,631
+                    Juneau                  55          57             21        6,435,595
+                    Kenosha                 55          59              9        1,832,684
+                    Kewaunee                55          61             39       15,170,008
+                    La Crosse               55          63             14        6,089,372
+
+                                              Page 38
+                                  Upper Midwest Federal Milk Order
+                                         Table 15 (Continued)
+
+
+                                                State        County         Number of       Producer
+      State                   County            Code          Code          Producers      Milk Pounds
+
+Wisconsin (continued)
+                         LaFayette                55             65                   70      11,905,314
+                         Langlade                 55             67                    7       3,309,805
+                         Lincoln                  55             69                    3         695,615
+                         Manitowoc                55             71                   85      43,149,892
+                         Marathon                 55             73                   46      19,711,719
+                         Marinette                55             75                   18      16,267,520
+                         Marquette                55             77                    7       9,052,642
+                         Monroe                   55             81                   49      18,313,707
+                         Oconto                   55             83                   24      14,642,166
+                         Outagamie                55             87                   46      22,227,950
+                         Ozaukee                  55             89                   13      10,019,759
+                         Pepin                    55             91                   11       4,492,040
+                         Pierce                   55             93                   41       7,681,511
+                         Polk                     55             95                   15       4,774,084
+                         Portage                  55             97                    3       1,727,375
+                         Price                    55             99                    3          81,353
+                         Racine                   55            101                   13       3,425,212
+                         Richland                 55            103                   29      15,672,878
+                         Rock                     55            105                   26       7,343,174
+                         Rusk                     55            107                   11       2,361,194
+                         St. Croix                55            109                   28       7,557,960
+                         Sauk                     55            111                   43       9,396,931
+                         Sawyer                   55            113                    R              R
+                         Shawano                  55            115                   40      37,821,044
+                         Sheboygan                55            117                   24      21,363,346
+                         Taylor                   55            119                   32       4,170,580
+                         Trempealeau              55            121                   31      10,007,037
+                         Vernon                   55            123                   59       9,388,824
+                         Walworth                 55            127                   39      18,097,765
+                         Washburn                 55            129                    R              R
+                         Washington               55            131                   29      18,897,164
+                         Waukesha                 55            133                   11         853,641
+                         Waupaca                  55            135                   22      10,630,331
+                         Waushara                 55            137                    7       1,034,287
+                         Winnebago                55            139                   19      12,920,202
+                         Wood                     55            141                    3         276,300
+                         Restricted                                                    8       6,367,359
+         Wisconsin Total                                                           1,992     834,906,434
+
+              FO 30 Total                                                          3,036    1,199,765,312
+
+R = Restricted.
+1/ Includes restricted data for the state.
+
+2/ Colorado, Kentucky and Texas restricted data included with Minnesota restricted data.
+

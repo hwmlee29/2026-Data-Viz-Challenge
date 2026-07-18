@@ -1,0 +1,51 @@
+plant_name,city,state,dec_order,validation,county,county_fips,lat,lon,dec_order_name,region,pooled_dec2025,on_dec_map
+Byrne Cortlandville,Cortland,NY,1,AMS 3359 December column,CORTLAND,36023,42.59613,-76.145474,FO1 Northeast,Northeast,True,True
+C. F. Burger Creamery,Detroit,MI,33,AMS 3359 December column,WAYNE,26163,42.33261,-83.217933,FO33 Mideast,Upper Midwest,True,True
+CFD Next,Reading,PA,1,AMS 3359 December column,BERKS,42011,40.364226,-75.908729,FO1 Northeast,Northeast,True,True
+DFA dba Country Fresh,Grand Rapids,MI,33,AMS 3359 December column,KENT,26081,42.963793,-85.626605,FO33 Mideast,Upper Midwest,True,True
+DFA dba Country Fresh Jilberts,Marquette,MI,33,AMS 3359 December column,MARQUETTE,26103,46.486961,-87.494598,FO33 Mideast,Upper Midwest,True,True
+DFA dba Dean Dairy,Sharpsville,PA,33,AMS 3359 December column,MERCER,42085,41.263653,-80.336921,FO33 Mideast,Northeast,True,True
+DFA dba Garelick Farms,Rensselaer,NY,1,AMS 3359 December column,RENSSELAER,36083,42.699991,-73.629889,FO1 Northeast,Northeast,True,True
+DFA dba Lehigh Valley Dairies,Lansdale,PA,1,AMS 3359 December column,MONTGOMERY,42091,40.169886,-75.313634,FO1 Northeast,Northeast,True,True
+DFA dba Swiss Premium Dairy,Lebanon,PA,1,AMS 3359 December column,LEBANON,42075,40.341615,-76.442891,FO1 Northeast,Northeast,True,True
+Dutch Valley Food,Sunbury,PA,1,AMS 3359 December column,NORTHUMBERLAND,42097,40.873395,-76.682108,FO1 Northeast,Northeast,True,True
+Fairlife,Coopersville,MI,33,AMS 3359 December column,OTTAWA,26139,42.909362,-86.021326,FO33 Mideast,Upper Midwest,True,True
+Guernsey Farms Dairy,Northville,MI,33,AMS 3359 December column,WAYNE,26163,42.33261,-83.217933,FO33 Mideast,Upper Midwest,True,True
+GW Packaging,Douglassville,PA,1,AMS 3359 December column,BERKS,42011,40.364226,-75.908729,FO1 Northeast,Northeast,True,True
+HP Hood,Barre,VT,1,AMS 3359 December column,WASHINGTON,50023,44.241925,-72.58392,FO1 Northeast,Northeast,True,True
+HP Hood,Batavia,NY,1,AMS 3359 December column,GENESEE,36037,42.999625,-78.173095,FO1 Northeast,Northeast,True,True
+HP Hood,Oneida,NY,1,AMS 3359 December column,MADISON,36053,42.984471,-75.717386,FO1 Northeast,Northeast,True,True
+HP Hood,Vernon,NY,1,AMS 3359 December column,ONEIDA,36065,43.147454,-75.359106,FO1 Northeast,Northeast,True,True
+Hudson Valley Fresh Bottling,Kingston,NY,1,AMS 3359 December column,ULSTER,36111,41.841064,-74.100745,FO1 Northeast,Northeast,True,True
+Kemps,Cedarburg,WI,30,AMS 3359 December column,OZAUKEE,55089,43.32038,-87.949891,FO30 Upper Midwest,Upper Midwest,True,True
+Kemps,Minneapolis,MN,30,AMS 3359 December column,HENNEPIN,27053,44.974633,-93.36119,FO30 Upper Midwest,Upper Midwest,True,True
+King Brothers Dairy,Schuylerville,NY,1,AMS 3359 December column,SARATOGA,36091,43.008801,-73.785787,FO1 Northeast,Northeast,True,True
+Kwik Trip,LaCrosse,WI,30,AMS 3359 December column,LA CROSSE,55063,43.858367,-91.208437,FO30 Upper Midwest,Upper Midwest,True,True
+Lamers Dairy,Appleton,WI,30,AMS 3359 December column,OUTAGAMIE,55087,44.309508,-88.400738,FO30 Upper Midwest,Upper Midwest,True,True
+Lucerne Dairy,Hatfield,PA,1,AMS 3359 December column,MONTGOMERY,42091,40.169886,-75.313634,FO1 Northeast,Northeast,True,True
+Marburger Farm Dairy,Evans City,PA,33,AMS 3359 December column,BUTLER,42019,40.829199,-79.958665,FO33 Mideast,Northeast,True,True
+Maryland & Virginia Milk Producers ,Philadelphia,PA,1,AMS 3359 December column,PHILADELPHIA,42101,40.004629,-75.139469,FO1 Northeast,Northeast,True,True
+Meijer Distribution,Holland,MI,33,AMS 3359 December column,OTTAWA,26139,42.909362,-86.021326,FO33 Mideast,Upper Midwest,True,True
+Michigan Dairy,Livonia,MI,33,AMS 3359 December column,WAYNE,26163,42.33261,-83.217933,FO33 Mideast,Upper Midwest,True,True
+Noah W Kreider & Sons,Manheim,PA,1,AMS 3359 December column,LANCASTER,42071,40.073653,-76.290855,FO1 Northeast,Northeast,True,True
+Pittsburg Special T-Dairy,Pittsburgh,PA,33,AMS 3359 December column,ALLEGHENY,42003,40.446249,-79.966538,FO33 Mideast,Northeast,True,True
+Prairie Farms Dairy,Battle Creek,MI,33,AMS 3359 December column,CALHOUN,26025,42.289509,-85.101835,FO33 Mideast,Upper Midwest,True,True
+Prairie Farms dba East Side Jersey Dairy,Woodbury,MN,30,AMS 3359 December column,WASHINGTON,27163,44.988623,-92.920897,FO30 Upper Midwest,Upper Midwest,True,True
+Ronnybrook Farm Dairy,Ancramdale,NY,1,AMS 3359 December column,COLUMBIA,36021,42.273336,-73.681049,FO1 Northeast,Northeast,True,True
+Rutter Bros Dairy,York,PA,1,AMS 3359 December column,YORK,42133,39.942113,-76.750832,FO1 Northeast,Northeast,True,True
+Saputo Dairy Foods,Delhi,NY,1,AMS 3359 December column,DELAWARE,36025,42.244535,-74.993985,FO1 Northeast,Northeast,True,True
+Schneider's Dairy,Pittsburgh,PA,33,AMS 3359 December column,ALLEGHENY,42003,40.446249,-79.966538,FO33 Mideast,Northeast,True,True
+Schreiber Foods,Beloit,WI,30,AMS 3359 December column,ROCK,55105,42.651893,-89.03741,FO30 Upper Midwest,Upper Midwest,True,True
+Schreiber Foods,Grand Rapids,MI,33,AMS 3359 December column,KENT,26081,42.963793,-85.626605,FO33 Mideast,Upper Midwest,True,True
+St. Paul Beverage Solutions,St. Paul,MN,30,AMS 3359 December column,RAMSEY,27123,44.993146,-93.106321,FO30 Upper Midwest,Upper Midwest,True,True
+Steuben Foods,Elma,NY,1,AMS 3359 December column,ERIE,36029,42.889478,-78.792596,FO1 Northeast,Northeast,True,True
+Stewarts Shops Corporation,Greenfield Center,NY,1,AMS 3359 December column,SARATOGA,36091,43.008801,-73.785787,FO1 Northeast,Northeast,True,True
+Trickling Springs,Chambersburg,PA,1,AMS 3359 December column,FRANKLIN,42055,39.882739,-77.656246,FO1 Northeast,Northeast,True,True
+Turkey Hill Dairy,Conestoga,PA,1,AMS 3359 December column,LANCASTER,42071,40.073653,-76.290855,FO1 Northeast,Northeast,True,True
+Turner Dairy Farms,Pittsburgh,PA,33,AMS 3359 December column,ALLEGHENY,42003,40.446249,-79.966538,FO33 Mideast,Northeast,True,True
+Ultra Dairy,East Syracuse,NY,1,AMS 3359 December column,ONONDAGA,36067,43.067188,-76.167442,FO1 Northeast,Northeast,True,True
+United Dairy,Uniontown,PA,33,AMS 3359 December column,FAYETTE,42051,39.949668,-79.71427,FO33 Mideast,Northeast,True,True
+Upstate Farms Dairy,Syracuse,NY,1,AMS 3359 December column,ONONDAGA,36067,43.067188,-76.167442,FO1 Northeast,Northeast,True,True
+Valley Farms Dairy,Williamsport,PA,1,AMS 3359 December column,LYCOMING,42081,41.249888,-76.98414,FO1 Northeast,Northeast,True,True
+Wawa Dairy Farms,Media,PA,1,AMS 3359 December column,DELAWARE,42045,39.921778,-75.348629,FO1 Northeast,Northeast,True,True
+Worcester Creameries,Roxbury,NY,1,AMS 3359 December column,DELAWARE,36025,42.244535,-74.993985,FO1 Northeast,Northeast,True,True

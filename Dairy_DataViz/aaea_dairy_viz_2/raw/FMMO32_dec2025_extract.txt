@@ -1,0 +1,21 @@
+# FO 32 (Central) — Producer Milk by State and County — December 2025 (MN & WI mapped counties)
+# Source: https://www.fmmacentral.com/PDFdata/prodstcnty202512.pdf  (retrieved 2026-07-10)
+# Printed: ORDER 032 TOTAL 1,115 producers / 985,986,640 lbs.
+#   MN TOTAL 37 / 8,209,085 (restricted 9 / 1,329,115); WI TOTAL 63 / 29,878,345 (restricted 7 / 3,529,555)
+#   MI TOTAL 4 / 2,427,818 (all restricted).
+# columns: state_abbrev state_fips COUNTY county_code producers pounds
+MN 27 COTTONWOOD 033 3 454401
+MN 27 HOUSTON 055 5 836094
+MN 27 MURRAY 101 4 486893
+MN 27 NOBLES 105 8 2898026
+MN 27 ROCK 133 5 2162844
+MN 27 WINONA 169 3 41712
+WI 55 CRAWFORD 023 5 38093
+WI 55 DANE 025 3 5489306
+WI 55 GRANT 043 28 9049143
+WI 55 IOWA 049 3 1150727
+WI 55 JUNEAU 057 3 23968
+WI 55 LAFAYETTE 065 4 2932791
+WI 55 MONROE 081 4 1473177
+WI 55 ROCK 105 3 6174317
+WI 55 VERNON 123 3 17268

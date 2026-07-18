@@ -1,0 +1,235 @@
+order,order_name,year,month,state_fips,county_fips,geo_fips,state_name,county_name,producers,milk_pounds
+30,Upper Midwest,2025,December,8,41,8041,Colorado,El Paso,,
+30,Upper Midwest,2025,December,8,109,8109,Colorado,Saguache,,
+30,Upper Midwest,2025,December,17,7,17007,Illinois,Boone,10.0,4848095.0
+30,Upper Midwest,2025,December,17,15,17015,Illinois,Carroll,7.0,4236410.0
+30,Upper Midwest,2025,December,17,19,17019,Illinois,Champaign,,
+30,Upper Midwest,2025,December,17,37,17037,Illinois,De Kalb,3.0,725002.0
+30,Upper Midwest,2025,December,17,57,17057,Illinois,Fulton,,
+30,Upper Midwest,2025,December,17,75,17075,Illinois,Iroquois,,
+30,Upper Midwest,2025,December,17,85,17085,Illinois,Jo Daviess,13.0,4028757.0
+30,Upper Midwest,2025,December,17,89,17089,Illinois,Kane,3.0,467550.0
+30,Upper Midwest,2025,December,17,93,17093,Illinois,Kendall,,
+30,Upper Midwest,2025,December,17,99,17099,Illinois,La Salle,,
+30,Upper Midwest,2025,December,17,105,17105,Illinois,Livingston,4.0,293312.0
+30,Upper Midwest,2025,December,17,107,17107,Illinois,Logan,,
+30,Upper Midwest,2025,December,17,111,17111,Illinois,McHenry,12.0,2155682.0
+30,Upper Midwest,2025,December,17,113,17113,Illinois,McLean,,
+30,Upper Midwest,2025,December,17,119,17119,Illinois,Madison,,
+30,Upper Midwest,2025,December,17,123,17123,Illinois,Marshall,,
+30,Upper Midwest,2025,December,17,141,17141,Illinois,Ogle,4.0,2463130.0
+30,Upper Midwest,2025,December,17,149,17149,Illinois,Pike,,
+30,Upper Midwest,2025,December,17,161,17161,Illinois,Rock Island,3.0,1142698.0
+30,Upper Midwest,2025,December,17,177,17177,Illinois,Stephenson,35.0,9686730.0
+30,Upper Midwest,2025,December,17,179,17179,Illinois,Tazewell,,
+30,Upper Midwest,2025,December,17,189,17189,Illinois,Washington,,
+30,Upper Midwest,2025,December,17,195,17195,Illinois,Whiteside,4.0,449576.0
+30,Upper Midwest,2025,December,17,201,17201,Illinois,Winnebago,10.0,2569778.0
+30,Upper Midwest,2025,December,18,39,18039,Indiana,Elkhart,5.0,93158.0
+30,Upper Midwest,2025,December,18,53,18053,Indiana,Grant,,
+30,Upper Midwest,2025,December,18,87,18087,Indiana,LaGrange,16.0,53692.0
+30,Upper Midwest,2025,December,18,91,18091,Indiana,La Porte,,
+30,Upper Midwest,2025,December,18,99,18099,Indiana,Marshall,,
+30,Upper Midwest,2025,December,18,111,18111,Indiana,Newton,,
+30,Upper Midwest,2025,December,18,113,18113,Indiana,Noble,,
+30,Upper Midwest,2025,December,19,5,19005,Iowa,Allamakee,20.0,3767556.0
+30,Upper Midwest,2025,December,19,11,19011,Iowa,Benton,,
+30,Upper Midwest,2025,December,19,13,19013,Iowa,Black Hawk,,
+30,Upper Midwest,2025,December,19,17,19017,Iowa,Bremer,,
+30,Upper Midwest,2025,December,19,19,19019,Iowa,Buchanan,5.0,117147.0
+30,Upper Midwest,2025,December,19,33,19033,Iowa,Cerro Gordo,,
+30,Upper Midwest,2025,December,19,37,19037,Iowa,Chickasaw,6.0,614713.0
+30,Upper Midwest,2025,December,19,43,19043,Iowa,Clayton,9.0,1093270.0
+30,Upper Midwest,2025,December,19,45,19045,Iowa,Clinton,,
+30,Upper Midwest,2025,December,19,51,19051,Iowa,Davis,4.0,255049.0
+30,Upper Midwest,2025,December,19,55,19055,Iowa,Delaware,8.0,2130838.0
+30,Upper Midwest,2025,December,19,61,19061,Iowa,Dubuque,15.0,12025435.0
+30,Upper Midwest,2025,December,19,65,19065,Iowa,Fayette,7.0,802032.0
+30,Upper Midwest,2025,December,19,67,19067,Iowa,Floyd,6.0,260649.0
+30,Upper Midwest,2025,December,19,81,19081,Iowa,Hancock,,
+30,Upper Midwest,2025,December,19,89,19089,Iowa,Howard,21.0,2854122.0
+30,Upper Midwest,2025,December,19,97,19097,Iowa,Jackson,3.0,71497.0
+30,Upper Midwest,2025,December,19,103,19103,Iowa,Johnson,,
+30,Upper Midwest,2025,December,19,105,19105,Iowa,Jones,4.0,1853161.0
+30,Upper Midwest,2025,December,19,131,19131,Iowa,Mitchell,6.0,836031.0
+30,Upper Midwest,2025,December,19,141,19141,Iowa,O'Brien,,
+30,Upper Midwest,2025,December,19,151,19151,Iowa,Pocahontas,,
+30,Upper Midwest,2025,December,19,163,19163,Iowa,Scott,,
+30,Upper Midwest,2025,December,19,167,19167,Iowa,Sioux,,
+30,Upper Midwest,2025,December,19,177,19177,Iowa,Van Buren,,
+30,Upper Midwest,2025,December,19,183,19183,Iowa,Washington,3.0,275233.0
+30,Upper Midwest,2025,December,19,185,19185,Iowa,Wayne,,
+30,Upper Midwest,2025,December,19,191,19191,Iowa,Winneshiek,26.0,10713378.0
+30,Upper Midwest,2025,December,21,11,21011,Kentucky,Bath,,
+30,Upper Midwest,2025,December,26,5,26005,Michigan,Allegan,,
+30,Upper Midwest,2025,December,26,23,26023,Michigan,Branch,,
+30,Upper Midwest,2025,December,26,43,26043,Michigan,Dickinson,3.0,1355375.0
+30,Upper Midwest,2025,December,26,109,26109,Michigan,Menominee 1/,16.0,6005000.0
+30,Upper Midwest,2025,December,26,149,26149,Michigan,St. Joseph,5.0,21787.0
+30,Upper Midwest,2025,December,27,5,27005,Minnesota,Becker,4.0,8383947.0
+30,Upper Midwest,2025,December,27,9,27009,Minnesota,Benton,11.0,4465052.0
+30,Upper Midwest,2025,December,27,13,27013,Minnesota,Blue Earth,3.0,213384.0
+30,Upper Midwest,2025,December,27,15,27015,Minnesota,Brown,10.0,1573643.0
+30,Upper Midwest,2025,December,27,17,27017,Minnesota,Carlton,5.0,263994.0
+30,Upper Midwest,2025,December,27,19,27019,Minnesota,Carver,26.0,6081212.0
+30,Upper Midwest,2025,December,27,23,27023,Minnesota,Chippewa,3.0,2692605.0
+30,Upper Midwest,2025,December,27,25,27025,Minnesota,Chisago,4.0,341330.0
+30,Upper Midwest,2025,December,27,27,27027,Minnesota,Clay,3.0,1615286.0
+30,Upper Midwest,2025,December,27,33,27033,Minnesota,Cottonwood,,
+30,Upper Midwest,2025,December,27,35,27035,Minnesota,Crow Wing,,
+30,Upper Midwest,2025,December,27,37,27037,Minnesota,Dakota,5.0,3924990.0
+30,Upper Midwest,2025,December,27,39,27039,Minnesota,Dodge,10.0,6703691.0
+30,Upper Midwest,2025,December,27,41,27041,Minnesota,Douglas,5.0,497580.0
+30,Upper Midwest,2025,December,27,43,27043,Minnesota,Faribault,,
+30,Upper Midwest,2025,December,27,45,27045,Minnesota,Fillmore,28.0,12423522.0
+30,Upper Midwest,2025,December,27,47,27047,Minnesota,Freeborn,,
+30,Upper Midwest,2025,December,27,49,27049,Minnesota,Goodhue,34.0,23613528.0
+30,Upper Midwest,2025,December,27,51,27051,Minnesota,Grant,,
+30,Upper Midwest,2025,December,27,53,27053,Minnesota,Hennepin,,
+30,Upper Midwest,2025,December,27,55,27055,Minnesota,Houston,25.0,9364194.0
+30,Upper Midwest,2025,December,27,57,27057,Minnesota,Hubbard,,
+30,Upper Midwest,2025,December,27,59,27059,Minnesota,Isanti,,
+30,Upper Midwest,2025,December,27,65,27065,Minnesota,Kanabec,,
+30,Upper Midwest,2025,December,27,67,27067,Minnesota,Kandiyohi,5.0,1282057.0
+30,Upper Midwest,2025,December,27,79,27079,Minnesota,Le Sueur,4.0,284138.0
+30,Upper Midwest,2025,December,27,81,27081,Minnesota,Lincoln,,
+30,Upper Midwest,2025,December,27,85,27085,Minnesota,McLeod,10.0,2855412.0
+30,Upper Midwest,2025,December,27,89,27089,Minnesota,Marshall,,
+30,Upper Midwest,2025,December,27,93,27093,Minnesota,Meeker,4.0,4784053.0
+30,Upper Midwest,2025,December,27,95,27095,Minnesota,Mille Lacs,6.0,480046.0
+30,Upper Midwest,2025,December,27,97,27097,Minnesota,Morrison,46.0,8811677.0
+30,Upper Midwest,2025,December,27,99,27099,Minnesota,Mower,9.0,3284254.0
+30,Upper Midwest,2025,December,27,101,27101,Minnesota,Murray,,
+30,Upper Midwest,2025,December,27,103,27103,Minnesota,Nicollet,6.0,1229803.0
+30,Upper Midwest,2025,December,27,107,27107,Minnesota,Norman,,
+30,Upper Midwest,2025,December,27,109,27109,Minnesota,Olmsted,12.0,7460079.0
+30,Upper Midwest,2025,December,27,111,27111,Minnesota,Otter Tail,23.0,7664519.0
+30,Upper Midwest,2025,December,27,113,27113,Minnesota,Pennington,,
+30,Upper Midwest,2025,December,27,115,27115,Minnesota,Pine,6.0,2573382.0
+30,Upper Midwest,2025,December,27,117,27117,Minnesota,Pipestone,4.0,888816.0
+30,Upper Midwest,2025,December,27,119,27119,Minnesota,Polk,3.0,2021389.0
+30,Upper Midwest,2025,December,27,121,27121,Minnesota,Pope,,
+30,Upper Midwest,2025,December,27,123,27123,Minnesota,Ramsey,,
+30,Upper Midwest,2025,December,27,125,27125,Minnesota,Red Lake,,
+30,Upper Midwest,2025,December,27,127,27127,Minnesota,Redwood,,
+30,Upper Midwest,2025,December,27,129,27129,Minnesota,Renville,,
+30,Upper Midwest,2025,December,27,131,27131,Minnesota,Rice,19.0,6913657.0
+30,Upper Midwest,2025,December,27,135,27135,Minnesota,Roseau,,
+30,Upper Midwest,2025,December,27,139,27139,Minnesota,Scott,13.0,2434669.0
+30,Upper Midwest,2025,December,27,141,27141,Minnesota,Sherburne,,
+30,Upper Midwest,2025,December,27,143,27143,Minnesota,Sibley,11.0,2630268.0
+30,Upper Midwest,2025,December,27,145,27145,Minnesota,Stearns,123.0,19969286.0
+30,Upper Midwest,2025,December,27,147,27147,Minnesota,Steele,8.0,1871647.0
+30,Upper Midwest,2025,December,27,149,27149,Minnesota,Stevens,3.0,10065677.0
+30,Upper Midwest,2025,December,27,153,27153,Minnesota,Todd,9.0,5848429.0
+30,Upper Midwest,2025,December,27,157,27157,Minnesota,Wabasha,26.0,9990964.0
+30,Upper Midwest,2025,December,27,159,27159,Minnesota,Wadena,6.0,909534.0
+30,Upper Midwest,2025,December,27,161,27161,Minnesota,Waseca,3.0,442072.0
+30,Upper Midwest,2025,December,27,163,27163,Minnesota,Washington,,
+30,Upper Midwest,2025,December,27,165,27165,Minnesota,Watonwan,,
+30,Upper Midwest,2025,December,27,169,27169,Minnesota,Winona,64.0,30019187.0
+30,Upper Midwest,2025,December,27,171,27171,Minnesota,Wright,22.0,8255127.0
+30,Upper Midwest,2025,December,29,61,29061,Missouri,Daviess,,
+30,Upper Midwest,2025,December,29,79,29079,Missouri,Grundy,,
+30,Upper Midwest,2025,December,29,115,29115,Missouri,Linn,,
+30,Upper Midwest,2025,December,29,117,29117,Missouri,Livingston,3.0,172409.0
+30,Upper Midwest,2025,December,29,199,29199,Missouri,Scotland,4.0,321620.0
+30,Upper Midwest,2025,December,38,3,38003,North Dakota,Barnes,,
+30,Upper Midwest,2025,December,38,17,38017,North Dakota,Cass,,
+30,Upper Midwest,2025,December,38,31,38031,North Dakota,Foster,,
+30,Upper Midwest,2025,December,38,37,38037,North Dakota,Grant,,
+30,Upper Midwest,2025,December,38,41,38041,North Dakota,Hettinger,,
+30,Upper Midwest,2025,December,38,45,38045,North Dakota,La Moure,,
+30,Upper Midwest,2025,December,38,47,38047,North Dakota,Logan,,
+30,Upper Midwest,2025,December,38,49,38049,North Dakota,McHenry,,
+30,Upper Midwest,2025,December,38,51,38051,North Dakota,McIntosh,,
+30,Upper Midwest,2025,December,38,59,38059,North Dakota,Morton,3.0,2780634.0
+30,Upper Midwest,2025,December,38,81,38081,North Dakota,Sargent,,
+30,Upper Midwest,2025,December,38,93,38093,North Dakota,Stutsman,,
+30,Upper Midwest,2025,December,39,7,39007,Ohio,Ashtabula,,
+30,Upper Midwest,2025,December,39,31,39031,Ohio,Coshocton,,
+30,Upper Midwest,2025,December,39,55,39055,Ohio,Geauga,3.0,8894.0
+30,Upper Midwest,2025,December,39,65,39065,Ohio,Hardin,,
+30,Upper Midwest,2025,December,39,71,39071,Ohio,Highland,,
+30,Upper Midwest,2025,December,39,75,39075,Ohio,Holmes,3.0,17329.0
+30,Upper Midwest,2025,December,39,91,39091,Ohio,Logan,3.0,13335.0
+30,Upper Midwest,2025,December,39,133,39133,Ohio,Portage,,
+30,Upper Midwest,2025,December,39,155,39155,Ohio,Trumbull,,
+30,Upper Midwest,2025,December,46,11,46011,South Dakota,Brookings,3.0,8353140.0
+30,Upper Midwest,2025,December,46,13,46013,South Dakota,Brown,,
+30,Upper Midwest,2025,December,46,21,46021,South Dakota,Campbell,,
+30,Upper Midwest,2025,December,46,29,46029,South Dakota,Codington,,
+30,Upper Midwest,2025,December,46,49,46049,South Dakota,Faulk,,
+30,Upper Midwest,2025,December,46,51,46051,South Dakota,Grant,3.0,270740.0
+30,Upper Midwest,2025,December,46,61,46061,South Dakota,Hanson,,
+30,Upper Midwest,2025,December,46,79,46079,South Dakota,Lake,,
+30,Upper Midwest,2025,December,46,87,46087,South Dakota,Mccook,,
+30,Upper Midwest,2025,December,46,109,46109,South Dakota,Roberts,,
+30,Upper Midwest,2025,December,46,125,46125,South Dakota,Turner,,
+30,Upper Midwest,2025,December,48,143,48143,Texas,Erath,,
+30,Upper Midwest,2025,December,48,399,48399,Texas,Runnels,,
+30,Upper Midwest,2025,December,55,1,55001,Wisconsin,Adams,6.0,22662915.0
+30,Upper Midwest,2025,December,55,3,55003,Wisconsin,Ashland,,
+30,Upper Midwest,2025,December,55,5,55005,Wisconsin,Barron,33.0,5900620.0
+30,Upper Midwest,2025,December,55,7,55007,Wisconsin,Bayfield,,
+30,Upper Midwest,2025,December,55,9,55009,Wisconsin,Brown,61.0,55799062.0
+30,Upper Midwest,2025,December,55,11,55011,Wisconsin,Buffalo,36.0,16819659.0
+30,Upper Midwest,2025,December,55,13,55013,Wisconsin,Burnett,,
+30,Upper Midwest,2025,December,55,15,55015,Wisconsin,Calumet,31.0,26838680.0
+30,Upper Midwest,2025,December,55,17,55017,Wisconsin,Chippewa,57.0,12808636.0
+30,Upper Midwest,2025,December,55,19,55019,Wisconsin,Clark,93.0,31008176.0
+30,Upper Midwest,2025,December,55,21,55021,Wisconsin,Columbia,26.0,4098928.0
+30,Upper Midwest,2025,December,55,23,55023,Wisconsin,Crawford,27.0,5408653.0
+30,Upper Midwest,2025,December,55,25,55025,Wisconsin,Dane,91.0,20898870.0
+30,Upper Midwest,2025,December,55,27,55027,Wisconsin,Dodge,88.0,34057514.0
+30,Upper Midwest,2025,December,55,29,55029,Wisconsin,Door,13.0,11882676.0
+30,Upper Midwest,2025,December,55,31,55031,Wisconsin,Douglas,3.0,188914.0
+30,Upper Midwest,2025,December,55,33,55033,Wisconsin,Dunn,22.0,19078231.0
+30,Upper Midwest,2025,December,55,35,55035,Wisconsin,Eau Claire,11.0,2904921.0
+30,Upper Midwest,2025,December,55,39,55039,Wisconsin,Fond du Lac,76.0,56901092.0
+30,Upper Midwest,2025,December,55,43,55043,Wisconsin,Grant,115.0,29584570.0
+30,Upper Midwest,2025,December,55,45,55045,Wisconsin,Green,68.0,20139443.0
+30,Upper Midwest,2025,December,55,47,55047,Wisconsin,Green Lake,10.0,7110599.0
+30,Upper Midwest,2025,December,55,49,55049,Wisconsin,,75.0,15448968.0
+30,Upper Midwest,2025,December,55,53,55053,Wisconsin,Jackson,20.0,7327336.0
+30,Upper Midwest,2025,December,55,55,55055,Wisconsin,Jefferson,32.0,12872631.0
+30,Upper Midwest,2025,December,55,57,55057,Wisconsin,Juneau,21.0,6435595.0
+30,Upper Midwest,2025,December,55,59,55059,Wisconsin,Kenosha,9.0,1832684.0
+30,Upper Midwest,2025,December,55,61,55061,Wisconsin,Kewaunee,39.0,15170008.0
+30,Upper Midwest,2025,December,55,63,55063,Wisconsin,La Crosse,14.0,6089372.0
+30,Upper Midwest,2025,December,55,65,55065,Wisconsin,LaFayette,70.0,11905314.0
+30,Upper Midwest,2025,December,55,67,55067,Wisconsin,Langlade,7.0,3309805.0
+30,Upper Midwest,2025,December,55,69,55069,Wisconsin,Lincoln,3.0,695615.0
+30,Upper Midwest,2025,December,55,71,55071,Wisconsin,Manitowoc,85.0,43149892.0
+30,Upper Midwest,2025,December,55,73,55073,Wisconsin,Marathon,46.0,19711719.0
+30,Upper Midwest,2025,December,55,75,55075,Wisconsin,Marinette,18.0,16267520.0
+30,Upper Midwest,2025,December,55,77,55077,Wisconsin,Marquette,7.0,9052642.0
+30,Upper Midwest,2025,December,55,81,55081,Wisconsin,Monroe,49.0,18313707.0
+30,Upper Midwest,2025,December,55,83,55083,Wisconsin,Oconto,24.0,14642166.0
+30,Upper Midwest,2025,December,55,87,55087,Wisconsin,Outagamie,46.0,22227950.0
+30,Upper Midwest,2025,December,55,89,55089,Wisconsin,Ozaukee,13.0,10019759.0
+30,Upper Midwest,2025,December,55,91,55091,Wisconsin,Pepin,11.0,4492040.0
+30,Upper Midwest,2025,December,55,93,55093,Wisconsin,Pierce,41.0,7681511.0
+30,Upper Midwest,2025,December,55,95,55095,Wisconsin,Polk,15.0,4774084.0
+30,Upper Midwest,2025,December,55,97,55097,Wisconsin,Portage,3.0,1727375.0
+30,Upper Midwest,2025,December,55,99,55099,Wisconsin,Price,3.0,81353.0
+30,Upper Midwest,2025,December,55,101,55101,Wisconsin,Racine,13.0,3425212.0
+30,Upper Midwest,2025,December,55,103,55103,Wisconsin,Richland,29.0,15672878.0
+30,Upper Midwest,2025,December,55,105,55105,Wisconsin,Rock,26.0,7343174.0
+30,Upper Midwest,2025,December,55,107,55107,Wisconsin,Rusk,11.0,2361194.0
+30,Upper Midwest,2025,December,55,109,55109,Wisconsin,St. Croix,28.0,7557960.0
+30,Upper Midwest,2025,December,55,111,55111,Wisconsin,Sauk,43.0,9396931.0
+30,Upper Midwest,2025,December,55,113,55113,Wisconsin,Sawyer,,
+30,Upper Midwest,2025,December,55,115,55115,Wisconsin,Shawano,40.0,37821044.0
+30,Upper Midwest,2025,December,55,117,55117,Wisconsin,Sheboygan,24.0,21363346.0
+30,Upper Midwest,2025,December,55,119,55119,Wisconsin,Taylor,32.0,4170580.0
+30,Upper Midwest,2025,December,55,121,55121,Wisconsin,Trempealeau,31.0,10007037.0
+30,Upper Midwest,2025,December,55,123,55123,Wisconsin,Vernon,59.0,9388824.0
+30,Upper Midwest,2025,December,55,127,55127,Wisconsin,Walworth,39.0,18097765.0
+30,Upper Midwest,2025,December,55,129,55129,Wisconsin,Washburn,,
+30,Upper Midwest,2025,December,55,131,55131,Wisconsin,Washington,29.0,18897164.0
+30,Upper Midwest,2025,December,55,133,55133,Wisconsin,Waukesha,11.0,853641.0
+30,Upper Midwest,2025,December,55,135,55135,Wisconsin,Waupaca,22.0,10630331.0
+30,Upper Midwest,2025,December,55,137,55137,Wisconsin,Waushara,7.0,1034287.0
+30,Upper Midwest,2025,December,55,139,55139,Wisconsin,Winnebago,19.0,12920202.0
+30,Upper Midwest,2025,December,55,141,55141,Wisconsin,Wood,3.0,276300.0

@@ -1,0 +1,19 @@
+# Federal milk order marketing-area definitions (county lists), for boundary overlays
+# Sources (retrieved 2026-07-14):
+#   FO 30: 7 CFR 1030.2 - https://www.ecfr.gov/current/title-7/part-1030/section-1030.2
+#   FO 1:  7 CFR 1001.2 - https://www.ecfr.gov/current/title-7/part-1001/subpart-ECFRf377b1296c74a53 (sec 1001.2)
+# Notes:
+#  - CFR text contains misspellings "Chatauqua" and "Genessee" (= Chautauqua, Genesee NY).
+#  - FO 1 splits three NY counties at the TOWNSHIP level (Cayuga: 4 townships excluded;
+#    Steuben: city of Hornell + 16 townships excluded; Yates: 3 townships excluded).
+#    County-level overlay draws these counties whole (disclosed in figure caption).
+#  - Only the six mapped states are compiled here; both areas extend beyond them
+#    (FO 30: parts of IL, IA, ND, SD; FO 1: CT, DE, MA, NH, NJ, RI, DC, most of MD, N. VA).
+#
+# format: order|state|rule|counties
+30|MN|all_except|Lincoln;Nobles;Pipestone;Rock
+30|WI|all_except|Crawford;Grant
+30|MI|include_only|Delta;Dickinson;Gogebic;Iron;Menominee;Ontonagon
+1|VT|all_except|
+1|NY|all_except|Allegany;Cattaraugus;Chautauqua;Erie;Genesee;Livingston;Monroe;Niagara;Ontario;Orleans;Seneca;Wayne;Wyoming
+1|PA|include_only|Adams;Bucks;Chester;Cumberland;Dauphin;Delaware;Franklin;Fulton;Juniata;Lancaster;Lebanon;Montgomery;Perry;Philadelphia;York

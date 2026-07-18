@@ -1,0 +1,109 @@
+state_name,county_name,geo_fips,producers,milk_pounds,restricted
+New York,Albany,36001.0,3,2455000,0
+New York,Allegany,36003.0,25,2933000,0
+New York,Broome,36007.0,22,14437000,0
+New York,Cattaraugus,36009.0,27,20930000,0
+New York,Cayuga,36011.0,67,128809000,0
+New York,Chautauqua,36013.0,22,11576000,0
+New York,Chemung,36015.0,10,1744000,0
+New York,Chenango,36017.0,86,12116000,0
+New York,Clinton,36019.0,51,33670000,0
+New York,Columbia,36021.0,7,8782000,0
+New York,Cortland,36023.0,54,32827000,0
+New York,Delaware,36025.0,45,7559000,0
+New York,Dutchess,36027.0,12,2847000,0
+New York,Erie,36029.0,26,16436000,0
+New York,Essex,36031.0,3,543000,0
+New York,Franklin,36033.0,114,38910000,0
+New York,Fulton,36035.0,5,504000,0
+New York,Genesee,36037.0,37,76319000,0
+New York,Greene,36039.0,6,398000,0
+New York,Herkimer,36043.0,75,23291000,0
+New York,Jefferson,36045.0,67,62224000,0
+New York,Lewis,36049.0,66,21667000,0
+New York,Livingston,36051.0,29,48049000,0
+New York,Madison,36053.0,95,28310000,0
+New York,Monroe,36055.0,3,1522000,0
+New York,Montgomery,36057.0,147,28116000,0
+New York,Niagara,36063.0,4,7718000,0
+New York,Oneida,36065.0,104,29971000,0
+New York,Onondaga,36067.0,39,60266000,0
+New York,Ontario,36069.0,89,64390000,0
+New York,Orange,36071.0,16,1702000,0
+New York,Orleans,36073.0,6,4153000,0
+New York,Oswego,36075.0,11,6112000,0
+New York,Otsego,36077.0,74,10707000,0
+New York,Rensselaer,36083.0,22,23707000,0
+New York,Saratoga,36091.0,10,22552000,0
+New York,Schoharie,36095.0,29,6914000,0
+New York,Schuyler,36097.0,10,21027000,0
+New York,Seneca,36099.0,65,8977000,0
+New York,St. Lawrence,36089.0,130,80307000,0
+New York,Steuben,36101.0,77,40692000,0
+New York,Sullivan,36105.0,12,898000,0
+New York,Tioga,36107.0,39,7482000,0
+New York,Tompkins,36109.0,22,16495000,0
+New York,Washington,36115.0,63,38565000,0
+New York,Wayne,36117.0,35,20250000,0
+New York,Wyoming,36121.0,68,89536000,0
+New York,Yates,36123.0,231,21718000,0
+New York,,,2,204000,1
+Pennsylvania,Adams,42001.0,24,10514000,0
+Pennsylvania,Allegheny,42003.0,3,266000,0
+Pennsylvania,Bedford,42009.0,69,9227000,0
+Pennsylvania,Berks,42011.0,157,33567000,0
+Pennsylvania,Blair,42013.0,68,36450000,0
+Pennsylvania,Bradford,42015.0,84,12739000,0
+Pennsylvania,Bucks,42017.0,7,665000,0
+Pennsylvania,Centre,42027.0,63,11887000,0
+Pennsylvania,Chester,42029.0,183,37136000,0
+Pennsylvania,Clinton,42035.0,45,7637000,0
+Pennsylvania,Columbia,42037.0,30,2340000,0
+Pennsylvania,Crawford,42039.0,7,4711000,0
+Pennsylvania,Cumberland,42041.0,161,38513000,0
+Pennsylvania,Dauphin,42043.0,38,6602000,0
+Pennsylvania,Fayette,42051.0,5,699000,0
+Pennsylvania,Franklin,42055.0,200,61370000,0
+Pennsylvania,Fulton,42057.0,14,4688000,0
+Pennsylvania,Huntingdon,42061.0,34,23444000,0
+Pennsylvania,Juniata,42067.0,50,9899000,0
+Pennsylvania,Lackawanna,42069.0,7,237000,0
+Pennsylvania,Lancaster,42071.0,1064,179749000,0
+Pennsylvania,Lebanon,42075.0,189,48266000,0
+Pennsylvania,Lehigh,42077.0,8,1202000,0
+Pennsylvania,Luzerne,42079.0,9,1026000,0
+Pennsylvania,Lycoming,42081.0,42,4228000,0
+Pennsylvania,McKean,42083.0,5,287000,0
+Pennsylvania,Mercer,42085.0,6,268000,0
+Pennsylvania,Mifflin,42087.0,104,14984000,0
+Pennsylvania,Montgomery,42091.0,6,707000,0
+Pennsylvania,Montour,42093.0,19,2276000,0
+Pennsylvania,Northampton,42095.0,6,383000,0
+Pennsylvania,Northumberland,42097.0,17,1871000,0
+Pennsylvania,Perry,42099.0,63,17831000,0
+Pennsylvania,Potter,42105.0,10,10167000,0
+Pennsylvania,Schuylkill,42107.0,17,2860000,0
+Pennsylvania,Snyder,42109.0,34,4491000,0
+Pennsylvania,Somerset,42111.0,38,4238000,0
+Pennsylvania,Sullivan,42113.0,3,139000,0
+Pennsylvania,Susquehanna,42115.0,51,5069000,0
+Pennsylvania,Tioga,42117.0,46,5256000,0
+Pennsylvania,Union,42119.0,98,14995000,0
+Pennsylvania,Wayne,42127.0,22,1487000,0
+Pennsylvania,Wyoming,42131.0,17,994000,0
+Pennsylvania,York,42133.0,68,9518000,0
+Pennsylvania,,,11,2776000,1
+Vermont,Addison,50001.0,53,64011000,0
+Vermont,Bennington,50003.0,3,1397000,0
+Vermont,Caledonia,50005.0,29,7223000,0
+Vermont,Chittenden,50007.0,16,4021000,0
+Vermont,Essex,50009.0,6,1770000,0
+Vermont,Franklin,50011.0,83,67351000,0
+Vermont,Grand Isle,50013.0,7,3798000,0
+Vermont,Lamoille,50015.0,16,2933000,0
+Vermont,Orange,50017.0,34,15359000,0
+Vermont,Orleans,50019.0,53,23844000,0
+Vermont,Rutland,50021.0,20,2524000,0
+Vermont,Washington,50023.0,8,5756000,0
+Vermont,Windham,50025.0,13,4143000,0
+Vermont,Windsor,50027.0,10,1023000,0

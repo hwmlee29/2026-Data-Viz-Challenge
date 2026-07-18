@@ -1,0 +1,16 @@
+order,order_name,state_abbrev,state_fips,county_fips,geo_fips,county_name,producers,milk_pounds
+32,Central,MN,27,33,27033,Cottonwood,3,454401
+32,Central,MN,27,55,27055,Houston,5,836094
+32,Central,MN,27,101,27101,Murray,4,486893
+32,Central,MN,27,105,27105,Nobles,8,2898026
+32,Central,MN,27,133,27133,Rock,5,2162844
+32,Central,MN,27,169,27169,Winona,3,41712
+32,Central,WI,55,23,55023,Crawford,5,38093
+32,Central,WI,55,25,55025,Dane,3,5489306
+32,Central,WI,55,43,55043,Grant,28,9049143
+32,Central,WI,55,49,55049,Iowa,3,1150727
+32,Central,WI,55,57,55057,Juneau,3,23968
+32,Central,WI,55,65,55065,Lafayette,4,2932791
+32,Central,WI,55,81,55081,Monroe,4,1473177
+32,Central,WI,55,105,55105,Rock,3,6174317
+32,Central,WI,55,123,55123,Vernon,3,17268

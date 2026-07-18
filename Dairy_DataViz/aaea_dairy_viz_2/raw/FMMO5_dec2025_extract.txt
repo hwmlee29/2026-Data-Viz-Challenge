@@ -1,0 +1,17 @@
+# FO 5 (Appalachian) — Producer Milk by State and County — December 2025 (PA mapped counties)
+# Source: https://www.malouisville.com/linkeddocs/StatReports/State County/State County 2025/stco1225.pdf  (retrieved 2026-07-10)
+# Printed: ORDER 5 TOTAL 970 / 437,874,329 lbs.
+#   PA TOTAL 144 / 13,295,856 (restricted 7 / 2,757,838); MI TOTAL 16 / 33,195,682 (ALL restricted); NY fully restricted.
+# columns: state_abbrev state_fips COUNTY county_code producers pounds
+PA 42 BEDFORD 009 35 636575
+PA 42 BERKS 011 3 98648
+PA 42 BLAIR 013 20 1619267
+PA 42 CUMBERLAND 041 9 276173
+PA 42 FRANKLIN 055 24 5681343
+PA 42 FULTON 057 3 1110279
+PA 42 HUNTINGDON 061 6 180893
+PA 42 JUNIATA 067 9 647065
+PA 42 MIFFLIN 087 6 35907
+PA 42 PERRY 099 3 44151
+PA 42 SNYDER 109 9 71318
+PA 42 UNION 119 10 136399

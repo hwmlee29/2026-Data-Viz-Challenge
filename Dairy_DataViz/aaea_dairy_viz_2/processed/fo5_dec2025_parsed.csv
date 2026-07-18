@@ -1,0 +1,13 @@
+order,order_name,state_abbrev,state_fips,county_fips,geo_fips,county_name,producers,milk_pounds
+5,Appalachian,PA,42,9,42009,Bedford,35,636575
+5,Appalachian,PA,42,11,42011,Berks,3,98648
+5,Appalachian,PA,42,13,42013,Blair,20,1619267
+5,Appalachian,PA,42,41,42041,Cumberland,9,276173
+5,Appalachian,PA,42,55,42055,Franklin,24,5681343
+5,Appalachian,PA,42,57,42057,Fulton,3,1110279
+5,Appalachian,PA,42,61,42061,Huntingdon,6,180893
+5,Appalachian,PA,42,67,42067,Juniata,9,647065
+5,Appalachian,PA,42,87,42087,Mifflin,6,35907
+5,Appalachian,PA,42,99,42099,Perry,3,44151
+5,Appalachian,PA,42,109,42109,Snyder,9,71318
+5,Appalachian,PA,42,119,42119,Union,10,136399

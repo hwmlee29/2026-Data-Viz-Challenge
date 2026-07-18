@@ -1,0 +1,274 @@
+geo_fips,state_abbrev,county_name,total_producers,total_milk_pounds,n_orders,orders,region
+26005.0,MI,Allegan,27.0,35568743.0,1,FO33,Upper Midwest
+26007.0,MI,Alpena,9.0,4209209.0,1,FO33,Upper Midwest
+26011.0,MI,Arenac,7.0,9393720.0,1,FO33,Upper Midwest
+26015.0,MI,Barry,19.0,28634649.0,1,FO33,Upper Midwest
+26021.0,MI,Berrien,5.0,2686160.0,1,FO33,Upper Midwest
+26023.0,MI,Branch,5.0,3100587.0,1,FO33,Upper Midwest
+26025.0,MI,Calhoun,12.0,16072164.0,1,FO33,Upper Midwest
+26029.0,MI,Charlevoix,4.0,847584.0,1,FO33,Upper Midwest
+26033.0,MI,Chippewa,4.0,353690.0,1,FO33,Upper Midwest
+26035.0,MI,Clare,14.0,3296119.0,1,FO33,Upper Midwest
+26037.0,MI,Clinton,32.0,86393335.0,1,FO33,Upper Midwest
+26043.0,MI,Dickinson,3.0,1355375.0,1,FO30,Upper Midwest
+26045.0,MI,Eaton,11.0,1091682.0,1,FO33,Upper Midwest
+26051.0,MI,Gladwin,3.0,2292826.0,1,FO33,Upper Midwest
+26057.0,MI,Gratiot,22.0,76044030.0,1,FO33,Upper Midwest
+26059.0,MI,Hillsdale,9.0,3599525.0,1,FO33,Upper Midwest
+26063.0,MI,Huron,46.0,80462236.0,1,FO33,Upper Midwest
+26065.0,MI,Ingham,12.0,11943541.0,1,FO33,Upper Midwest
+26067.0,MI,Ionia,26.0,39713639.0,1,FO33,Upper Midwest
+26069.0,MI,Iosco,8.0,4893834.0,1,FO33,Upper Midwest
+26073.0,MI,Isabella,20.0,12530015.0,1,FO33,Upper Midwest
+26075.0,MI,Jackson,10.0,4212831.0,1,FO33,Upper Midwest
+26077.0,MI,Kalamazoo,7.0,19831509.0,1,FO33,Upper Midwest
+26081.0,MI,Kent,13.0,17392438.0,1,FO33,Upper Midwest
+26087.0,MI,Lapeer,6.0,728808.0,1,FO33,Upper Midwest
+26091.0,MI,Lenawee,15.0,46479415.0,1,FO33,Upper Midwest
+26093.0,MI,Livingston,5.0,3483842.0,1,FO33,Upper Midwest
+26105.0,MI,Mason,5.0,698918.0,1,FO33,Upper Midwest
+26107.0,MI,Mecosta,9.0,4484940.0,1,FO33,Upper Midwest
+26109.0,MI,Menominee 1/,23.0,7649069.0,2,FO30+FO33,Upper Midwest
+26113.0,MI,Missaukee,29.0,52594363.0,1,FO33,Upper Midwest
+26117.0,MI,Montcalm,34.0,14048469.0,1,FO33,Upper Midwest
+26119.0,MI,Montmorency,5.0,1045103.0,1,FO33,Upper Midwest
+26121.0,MI,Muskegon,13.0,18517546.0,1,FO33,Upper Midwest
+26123.0,MI,Newaygo,22.0,11713578.0,1,FO33,Upper Midwest
+26129.0,MI,Ogemaw,18.0,9037097.0,1,FO33,Upper Midwest
+26133.0,MI,Osceola,17.0,22505367.0,1,FO33,Upper Midwest
+26135.0,MI,Oscoda,3.0,347758.0,1,FO33,Upper Midwest
+26139.0,MI,Ottawa,38.0,56748990.0,1,FO33,Upper Midwest
+26145.0,MI,Saginaw,10.0,2905638.0,1,FO33,Upper Midwest
+26147.0,MI,Stclair,5.0,1564310.0,1,FO33,Upper Midwest
+26149.0,MI,St. Joseph,15.0,4542788.0,2,FO30+FO33,Upper Midwest
+26151.0,MI,Sanilac,55.0,52077730.0,1,FO33,Upper Midwest
+26155.0,MI,Shiawassee,7.0,3302142.0,1,FO33,Upper Midwest
+26157.0,MI,Tuscola,29.0,25383741.0,1,FO33,Upper Midwest
+26159.0,MI,Vanburen,5.0,24056880.0,1,FO33,Upper Midwest
+26161.0,MI,Washtenaw,6.0,1737021.0,1,FO33,Upper Midwest
+26165.0,MI,Wexford,3.0,448129.0,1,FO33,Upper Midwest
+27005.0,MN,Becker,4.0,8383947.0,1,FO30,Upper Midwest
+27009.0,MN,Benton,11.0,4465052.0,1,FO30,Upper Midwest
+27013.0,MN,Blue Earth,3.0,213384.0,1,FO30,Upper Midwest
+27015.0,MN,Brown,10.0,1573643.0,1,FO30,Upper Midwest
+27017.0,MN,Carlton,5.0,263994.0,1,FO30,Upper Midwest
+27019.0,MN,Carver,26.0,6081212.0,1,FO30,Upper Midwest
+27023.0,MN,Chippewa,3.0,2692605.0,1,FO30,Upper Midwest
+27025.0,MN,Chisago,4.0,341330.0,1,FO30,Upper Midwest
+27027.0,MN,Clay,3.0,1615286.0,1,FO30,Upper Midwest
+27033.0,MN,Cottonwood,3.0,454401.0,1,FO32,Upper Midwest
+27037.0,MN,Dakota,5.0,3924990.0,1,FO30,Upper Midwest
+27039.0,MN,Dodge,10.0,6703691.0,1,FO30,Upper Midwest
+27041.0,MN,Douglas,5.0,497580.0,1,FO30,Upper Midwest
+27045.0,MN,Fillmore,28.0,12423522.0,1,FO30,Upper Midwest
+27049.0,MN,Goodhue,34.0,23613528.0,1,FO30,Upper Midwest
+27055.0,MN,Houston,30.0,10200288.0,2,FO30+FO32,Upper Midwest
+27067.0,MN,Kandiyohi,5.0,1282057.0,1,FO30,Upper Midwest
+27079.0,MN,Le Sueur,4.0,284138.0,1,FO30,Upper Midwest
+27085.0,MN,McLeod,10.0,2855412.0,1,FO30,Upper Midwest
+27093.0,MN,Meeker,4.0,4784053.0,1,FO30,Upper Midwest
+27095.0,MN,Mille Lacs,6.0,480046.0,1,FO30,Upper Midwest
+27097.0,MN,Morrison,46.0,8811677.0,1,FO30,Upper Midwest
+27099.0,MN,Mower,9.0,3284254.0,1,FO30,Upper Midwest
+27101.0,MN,Murray,4.0,486893.0,1,FO32,Upper Midwest
+27103.0,MN,Nicollet,6.0,1229803.0,1,FO30,Upper Midwest
+27105.0,MN,Nobles,8.0,2898026.0,1,FO32,Upper Midwest
+27109.0,MN,Olmsted,12.0,7460079.0,1,FO30,Upper Midwest
+27111.0,MN,Otter Tail,23.0,7664519.0,1,FO30,Upper Midwest
+27115.0,MN,Pine,6.0,2573382.0,1,FO30,Upper Midwest
+27117.0,MN,Pipestone,4.0,888816.0,1,FO30,Upper Midwest
+27119.0,MN,Polk,3.0,2021389.0,1,FO30,Upper Midwest
+27131.0,MN,Rice,19.0,6913657.0,1,FO30,Upper Midwest
+27133.0,MN,Rock,5.0,2162844.0,1,FO32,Upper Midwest
+27139.0,MN,Scott,13.0,2434669.0,1,FO30,Upper Midwest
+27143.0,MN,Sibley,11.0,2630268.0,1,FO30,Upper Midwest
+27145.0,MN,Stearns,123.0,19969286.0,1,FO30,Upper Midwest
+27147.0,MN,Steele,8.0,1871647.0,1,FO30,Upper Midwest
+27149.0,MN,Stevens,3.0,10065677.0,1,FO30,Upper Midwest
+27153.0,MN,Todd,9.0,5848429.0,1,FO30,Upper Midwest
+27157.0,MN,Wabasha,26.0,9990964.0,1,FO30,Upper Midwest
+27159.0,MN,Wadena,6.0,909534.0,1,FO30,Upper Midwest
+27161.0,MN,Waseca,3.0,442072.0,1,FO30,Upper Midwest
+27169.0,MN,Winona,67.0,30060899.0,2,FO30+FO32,Upper Midwest
+27171.0,MN,Wright,22.0,8255127.0,1,FO30,Upper Midwest
+36001.0,NY,Albany,3.0,2455000.0,1,FO1,Northeast
+36003.0,NY,Allegany,25.0,2933000.0,1,FO1,Northeast
+36007.0,NY,Broome,22.0,14437000.0,1,FO1,Northeast
+36009.0,NY,Cattaraugus,52.0,48543664.0,2,FO1+FO33,Northeast
+36011.0,NY,Cayuga,67.0,128809000.0,1,FO1,Northeast
+36013.0,NY,Chautauqua,62.0,27938385.0,2,FO1+FO33,Northeast
+36015.0,NY,Chemung,10.0,1744000.0,1,FO1,Northeast
+36017.0,NY,Chenango,86.0,12116000.0,1,FO1,Northeast
+36019.0,NY,Clinton,51.0,33670000.0,1,FO1,Northeast
+36021.0,NY,Columbia,7.0,8782000.0,1,FO1,Northeast
+36023.0,NY,Cortland,54.0,32827000.0,1,FO1,Northeast
+36025.0,NY,Delaware,45.0,7559000.0,1,FO1,Northeast
+36027.0,NY,Dutchess,12.0,2847000.0,1,FO1,Northeast
+36029.0,NY,Erie,31.0,18052348.0,2,FO1+FO33,Northeast
+36031.0,NY,Essex,3.0,543000.0,1,FO1,Northeast
+36033.0,NY,Franklin,114.0,38910000.0,1,FO1,Northeast
+36035.0,NY,Fulton,5.0,504000.0,1,FO1,Northeast
+36037.0,NY,Genesee,37.0,76319000.0,1,FO1,Northeast
+36039.0,NY,Greene,6.0,398000.0,1,FO1,Northeast
+36043.0,NY,Herkimer,75.0,23291000.0,1,FO1,Northeast
+36045.0,NY,Jefferson,67.0,62224000.0,1,FO1,Northeast
+36049.0,NY,Lewis,66.0,21667000.0,1,FO1,Northeast
+36051.0,NY,Livingston,33.0,48994001.0,2,FO1+FO33,Northeast
+36053.0,NY,Madison,95.0,28310000.0,1,FO1,Northeast
+36055.0,NY,Monroe,3.0,1522000.0,1,FO1,Northeast
+36057.0,NY,Montgomery,147.0,28116000.0,1,FO1,Northeast
+36063.0,NY,Niagara,4.0,7718000.0,1,FO1,Northeast
+36065.0,NY,Oneida,104.0,29971000.0,1,FO1,Northeast
+36067.0,NY,Onondaga,39.0,60266000.0,1,FO1,Northeast
+36069.0,NY,Ontario,95.0,65301405.0,2,FO1+FO33,Northeast
+36071.0,NY,Orange,16.0,1702000.0,1,FO1,Northeast
+36073.0,NY,Orleans,6.0,4153000.0,1,FO1,Northeast
+36075.0,NY,Oswego,11.0,6112000.0,1,FO1,Northeast
+36077.0,NY,Otsego,74.0,10707000.0,1,FO1,Northeast
+36083.0,NY,Rensselaer,22.0,23707000.0,1,FO1,Northeast
+36089.0,NY,St. Lawrence,130.0,80307000.0,1,FO1,Northeast
+36091.0,NY,Saratoga,10.0,22552000.0,1,FO1,Northeast
+36095.0,NY,Schoharie,29.0,6914000.0,1,FO1,Northeast
+36097.0,NY,Schuyler,10.0,21027000.0,1,FO1,Northeast
+36099.0,NY,Seneca,65.0,8977000.0,1,FO1,Northeast
+36101.0,NY,Steuben,80.0,41891577.0,2,FO1+FO33,Northeast
+36105.0,NY,Sullivan,12.0,898000.0,1,FO1,Northeast
+36107.0,NY,Tioga,39.0,7482000.0,1,FO1,Northeast
+36109.0,NY,Tompkins,22.0,16495000.0,1,FO1,Northeast
+36115.0,NY,Washington,63.0,38565000.0,1,FO1,Northeast
+36117.0,NY,Wayne,35.0,20250000.0,1,FO1,Northeast
+36121.0,NY,Wyoming,86.0,94150072.0,2,FO1+FO33,Northeast
+36123.0,NY,Yates,231.0,21718000.0,1,FO1,Northeast
+42001.0,PA,Adams,24.0,10514000.0,1,FO1,Northeast
+42003.0,PA,Allegheny,3.0,266000.0,1,FO1,Northeast
+42005.0,PA,Armstrong,9.0,2203191.0,1,FO33,Northeast
+42007.0,PA,Beaver,9.0,540599.0,1,FO33,Northeast
+42009.0,PA,Bedford,123.0,10890656.0,3,FO1+FO5+FO33,Northeast
+42011.0,PA,Berks,160.0,33665648.0,2,FO1+FO5,Northeast
+42013.0,PA,Blair,106.0,39812474.0,3,FO1+FO5+FO33,Northeast
+42015.0,PA,Bradford,91.0,14463121.0,2,FO1+FO33,Northeast
+42017.0,PA,Bucks,7.0,665000.0,1,FO1,Northeast
+42019.0,PA,Butler,17.0,2983260.0,1,FO33,Northeast
+42021.0,PA,Cambria,3.0,921701.0,1,FO33,Northeast
+42027.0,PA,Centre,81.0,13670763.0,2,FO1+FO33,Northeast
+42029.0,PA,Chester,214.0,38703857.0,2,FO1+FO33,Northeast
+42031.0,PA,Clarion,11.0,2831530.0,1,FO33,Northeast
+42033.0,PA,Clearfield,7.0,809844.0,1,FO33,Northeast
+42035.0,PA,Clinton,50.0,9849845.0,2,FO1+FO33,Northeast
+42037.0,PA,Columbia,30.0,2340000.0,1,FO1,Northeast
+42039.0,PA,Crawford,70.0,17300840.0,2,FO1+FO33,Northeast
+42041.0,PA,Cumberland,170.0,38789173.0,2,FO1+FO5,Northeast
+42043.0,PA,Dauphin,38.0,6602000.0,1,FO1,Northeast
+42049.0,PA,Erie,26.0,3073386.0,1,FO33,Northeast
+42051.0,PA,Fayette,20.0,2282765.0,2,FO1+FO33,Northeast
+42053.0,PA,Forest,3.0,181682.0,1,FO33,Northeast
+42055.0,PA,Franklin,224.0,67051343.0,2,FO1+FO5,Northeast
+42057.0,PA,Fulton,17.0,5798279.0,2,FO1+FO5,Northeast
+42061.0,PA,Huntingdon,43.0,23993517.0,3,FO1+FO5+FO33,Northeast
+42063.0,PA,Indiana,27.0,5364735.0,1,FO33,Northeast
+42065.0,PA,Jefferson,10.0,952398.0,1,FO33,Northeast
+42067.0,PA,Juniata,59.0,10546065.0,2,FO1+FO5,Northeast
+42069.0,PA,Lackawanna,7.0,237000.0,1,FO1,Northeast
+42071.0,PA,Lancaster,1170.0,183979727.0,2,FO1+FO33,Northeast
+42073.0,PA,Lawrence,22.0,6526969.0,1,FO33,Northeast
+42075.0,PA,Lebanon,189.0,48266000.0,1,FO1,Northeast
+42077.0,PA,Lehigh,8.0,1202000.0,1,FO1,Northeast
+42079.0,PA,Luzerne,9.0,1026000.0,1,FO1,Northeast
+42081.0,PA,Lycoming,46.0,4499124.0,2,FO1+FO33,Northeast
+42083.0,PA,McKean,5.0,287000.0,1,FO1,Northeast
+42085.0,PA,Mercer,36.0,4596053.0,2,FO1+FO33,Northeast
+42087.0,PA,Mifflin,110.0,15019907.0,2,FO1+FO5,Northeast
+42091.0,PA,Montgomery,6.0,707000.0,1,FO1,Northeast
+42093.0,PA,Montour,19.0,2276000.0,1,FO1,Northeast
+42095.0,PA,Northampton,6.0,383000.0,1,FO1,Northeast
+42097.0,PA,Northumberland,17.0,1871000.0,1,FO1,Northeast
+42099.0,PA,Perry,66.0,17875151.0,2,FO1+FO5,Northeast
+42105.0,PA,Potter,10.0,10167000.0,1,FO1,Northeast
+42107.0,PA,Schuylkill,17.0,2860000.0,1,FO1,Northeast
+42109.0,PA,Snyder,49.0,4617513.0,3,FO1+FO5+FO33,Northeast
+42111.0,PA,Somerset,115.0,13800742.0,2,FO1+FO33,Northeast
+42113.0,PA,Sullivan,3.0,139000.0,1,FO1,Northeast
+42115.0,PA,Susquehanna,51.0,5069000.0,1,FO1,Northeast
+42117.0,PA,Tioga,46.0,5256000.0,1,FO1,Northeast
+42119.0,PA,Union,115.0,15561325.0,3,FO1+FO5+FO33,Northeast
+42121.0,PA,Venango,3.0,570676.0,1,FO33,Northeast
+42123.0,PA,Warren,17.0,3041787.0,1,FO33,Northeast
+42125.0,PA,Washington,14.0,1403451.0,1,FO33,Northeast
+42127.0,PA,Wayne,22.0,1487000.0,1,FO1,Northeast
+42129.0,PA,Westmoreland,30.0,4520541.0,1,FO33,Northeast
+42131.0,PA,Wyoming,17.0,994000.0,1,FO1,Northeast
+42133.0,PA,York,78.0,9645887.0,2,FO1+FO33,Northeast
+50001.0,VT,Addison,53.0,64011000.0,1,FO1,Northeast
+50003.0,VT,Bennington,3.0,1397000.0,1,FO1,Northeast
+50005.0,VT,Caledonia,29.0,7223000.0,1,FO1,Northeast
+50007.0,VT,Chittenden,16.0,4021000.0,1,FO1,Northeast
+50009.0,VT,Essex,6.0,1770000.0,1,FO1,Northeast
+50011.0,VT,Franklin,83.0,67351000.0,1,FO1,Northeast
+50013.0,VT,Grand Isle,7.0,3798000.0,1,FO1,Northeast
+50015.0,VT,Lamoille,16.0,2933000.0,1,FO1,Northeast
+50017.0,VT,Orange,34.0,15359000.0,1,FO1,Northeast
+50019.0,VT,Orleans,53.0,23844000.0,1,FO1,Northeast
+50021.0,VT,Rutland,20.0,2524000.0,1,FO1,Northeast
+50023.0,VT,Washington,8.0,5756000.0,1,FO1,Northeast
+50025.0,VT,Windham,13.0,4143000.0,1,FO1,Northeast
+50027.0,VT,Windsor,10.0,1023000.0,1,FO1,Northeast
+55001.0,WI,Adams,6.0,22662915.0,1,FO30,Upper Midwest
+55005.0,WI,Barron,33.0,5900620.0,1,FO30,Upper Midwest
+55009.0,WI,Brown,61.0,55799062.0,1,FO30,Upper Midwest
+55011.0,WI,Buffalo,36.0,16819659.0,1,FO30,Upper Midwest
+55015.0,WI,Calumet,31.0,26838680.0,1,FO30,Upper Midwest
+55017.0,WI,Chippewa,57.0,12808636.0,1,FO30,Upper Midwest
+55019.0,WI,Clark,93.0,31008176.0,1,FO30,Upper Midwest
+55021.0,WI,Columbia,26.0,4098928.0,1,FO30,Upper Midwest
+55023.0,WI,Crawford,32.0,5446746.0,2,FO30+FO32,Upper Midwest
+55025.0,WI,Dane,94.0,26388176.0,2,FO30+FO32,Upper Midwest
+55027.0,WI,Dodge,88.0,34057514.0,1,FO30,Upper Midwest
+55029.0,WI,Door,13.0,11882676.0,1,FO30,Upper Midwest
+55031.0,WI,Douglas,3.0,188914.0,1,FO30,Upper Midwest
+55033.0,WI,Dunn,22.0,19078231.0,1,FO30,Upper Midwest
+55035.0,WI,Eau Claire,11.0,2904921.0,1,FO30,Upper Midwest
+55039.0,WI,Fond du Lac,76.0,56901092.0,1,FO30,Upper Midwest
+55043.0,WI,Grant,143.0,38633713.0,2,FO30+FO32,Upper Midwest
+55045.0,WI,Green,68.0,20139443.0,1,FO30,Upper Midwest
+55047.0,WI,Green Lake,10.0,7110599.0,1,FO30,Upper Midwest
+55049.0,WI,Iowa,78.0,16599695.0,2,FO30+FO32,Upper Midwest
+55053.0,WI,Jackson,20.0,7327336.0,1,FO30,Upper Midwest
+55055.0,WI,Jefferson,32.0,12872631.0,1,FO30,Upper Midwest
+55057.0,WI,Juneau,24.0,6459563.0,2,FO30+FO32,Upper Midwest
+55059.0,WI,Kenosha,9.0,1832684.0,1,FO30,Upper Midwest
+55061.0,WI,Kewaunee,39.0,15170008.0,1,FO30,Upper Midwest
+55063.0,WI,La Crosse,14.0,6089372.0,1,FO30,Upper Midwest
+55065.0,WI,LaFayette,74.0,14838105.0,2,FO30+FO32,Upper Midwest
+55067.0,WI,Langlade,7.0,3309805.0,1,FO30,Upper Midwest
+55069.0,WI,Lincoln,3.0,695615.0,1,FO30,Upper Midwest
+55071.0,WI,Manitowoc,85.0,43149892.0,1,FO30,Upper Midwest
+55073.0,WI,Marathon,46.0,19711719.0,1,FO30,Upper Midwest
+55075.0,WI,Marinette,18.0,16267520.0,1,FO30,Upper Midwest
+55077.0,WI,Marquette,7.0,9052642.0,1,FO30,Upper Midwest
+55081.0,WI,Monroe,53.0,19786884.0,2,FO30+FO32,Upper Midwest
+55083.0,WI,Oconto,24.0,14642166.0,1,FO30,Upper Midwest
+55087.0,WI,Outagamie,46.0,22227950.0,1,FO30,Upper Midwest
+55089.0,WI,Ozaukee,13.0,10019759.0,1,FO30,Upper Midwest
+55091.0,WI,Pepin,11.0,4492040.0,1,FO30,Upper Midwest
+55093.0,WI,Pierce,41.0,7681511.0,1,FO30,Upper Midwest
+55095.0,WI,Polk,15.0,4774084.0,1,FO30,Upper Midwest
+55097.0,WI,Portage,3.0,1727375.0,1,FO30,Upper Midwest
+55099.0,WI,Price,3.0,81353.0,1,FO30,Upper Midwest
+55101.0,WI,Racine,13.0,3425212.0,1,FO30,Upper Midwest
+55103.0,WI,Richland,29.0,15672878.0,1,FO30,Upper Midwest
+55105.0,WI,Rock,29.0,13517491.0,2,FO30+FO32,Upper Midwest
+55107.0,WI,Rusk,11.0,2361194.0,1,FO30,Upper Midwest
+55109.0,WI,St. Croix,28.0,7557960.0,1,FO30,Upper Midwest
+55111.0,WI,Sauk,43.0,9396931.0,1,FO30,Upper Midwest
+55115.0,WI,Shawano,40.0,37821044.0,1,FO30,Upper Midwest
+55117.0,WI,Sheboygan,24.0,21363346.0,1,FO30,Upper Midwest
+55119.0,WI,Taylor,32.0,4170580.0,1,FO30,Upper Midwest
+55121.0,WI,Trempealeau,31.0,10007037.0,1,FO30,Upper Midwest
+55123.0,WI,Vernon,62.0,9406092.0,2,FO30+FO32,Upper Midwest
+55127.0,WI,Walworth,39.0,18097765.0,1,FO30,Upper Midwest
+55131.0,WI,Washington,29.0,18897164.0,1,FO30,Upper Midwest
+55133.0,WI,Waukesha,11.0,853641.0,1,FO30,Upper Midwest
+55135.0,WI,Waupaca,22.0,10630331.0,1,FO30,Upper Midwest
+55137.0,WI,Waushara,7.0,1034287.0,1,FO30,Upper Midwest
+55139.0,WI,Winnebago,19.0,12920202.0,1,FO30,Upper Midwest
+55141.0,WI,Wood,3.0,276300.0,1,FO30,Upper Midwest
